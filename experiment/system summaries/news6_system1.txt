@@ -1,0 +1,20 @@
+Activcard's method is more complex.
+If we do that, they will indemnify us," he said.
+"By the time they go back [to use the information], the code has expired, so they can't prove who they are," according to Mr Ash.
+One of the biggest challenges to improving security online is how to authenticate an individual's identity.
+More people are becoming aware of online security issues but they have little confidence that companies are doing enough to counter the threats, said security firm RSA, which carried out the poll.
+The most difficult is to ascertain whether an individual is who they say they are when they are online.
+"PCs will have readers built into them, the cost of readers will be very cheap, and more people will have the cards.
+" The method it has developed makes use of the chip embedded in bank cards and a special card reader which can generate unique codes that are active for a specified amount of time.
+" The clever bit happens back at the bank's secure servers.
+The code is validated by the bank's systems, matching the information they expect with the customer's unique key.
+He added: "The challenge for banks is to provide the customer with something that improves security but balances that with usability.
+Trust in online security is falling as a result.
+It is a 2048 bit long number that is virtually impossible to crack," said Mr Ash.
+Activcard is just one of the many companies, like RSA Security, which has been trying to come up with just that.
+" Ensuring extra security measures are in place protects them too, as well as the individual, and it is up to both parties to make sure they do what is necessary to prevent fraud, he said.
+"Each individual gets a key which is unique to them.
+"The PDA or phone method is a possible alternative as people are always carrying phones around," he said.
+The survey of more than 1,000 people reported that 43% were not willing to hand over personal information online.
+In a separate survey by RSA, 80% said they were fed up with passwords and would like a better way to login to work computer systems.
+
