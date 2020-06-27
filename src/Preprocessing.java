@@ -225,7 +225,7 @@ public class Preprocessing {
         findParagraphStarts();
         
         for(int i=0; i<size; i++){
-            if(wordsAtParagraphStarts.size() > 0 && i<(size-1)){ // son cümleye gerek yok
+            if(wordsAtParagraphStarts.size() > 0 && i<(size-1)){ 
                 paragraphStart = checkParagraphStarts(map.get(i).toString());
                 try {
                     if (paragraphStart == true || i == 0){ // ilk cümleyi paragraf başı olarak kaydet
