@@ -11,7 +11,9 @@ MySQL Server v5.2+
 Java files and required external jar files are added to "src" folder. Database tables and routines can be found under "sql" folder.
 
 ## Running The Tests:
-The interface of the project provides loading selected texts and reference summaries.The generated summaries and their evaluation results are presented as output of the project. Alos, the texts, their reference summaries and generated summaries are included in "experiment" folder.
+The interface of the project provides loading selected texts and reference summaries.The generated summaries and their evaluation results are presented as output of the project. Also, the texts, their reference summaries and generated summaries are included in "experiment" folder. <br />
+
+Evaluation of the results are provided using ROUGE metrics and ROUGE 2.0 toolkit, which is a Java package for evaluation of the task, is externally adapted to the project.
 
 ## Contribution:
 - No need for semantic consideration of words, titles and calculating similarity of sentences
@@ -20,4 +22,4 @@ The interface of the project provides loading selected texts and reference summa
 - Used advantages of some punctuations
 - Good at extracting short but valuable sentences
 
-## 
+
