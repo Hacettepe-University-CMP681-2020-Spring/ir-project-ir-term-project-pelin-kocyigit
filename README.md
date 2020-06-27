@@ -1,6 +1,6 @@
 # Extractive-Based Text Summarization Using Sentence Features
 
-## Aim
+## Aim:
 This project is to make contribution for automatic summarization of single document based on extractive methods. The backbone of the project is benefiting from pre-defined features of sentences and focusing on them more than word weights. 
 
 ## Prerequisites:
@@ -10,7 +10,7 @@ MySQL Server v5.2+
 ## Installation:
 Java files and required external jar files are added to "src" folder. Database tables and routines can be found under "sql" folder.
 
-## Dataset
+## Dataset:
 During the experiments a dataset that contains news articles of BBC and their pair summaries are used to make a comparison with the generated summaries. The
 context of the selected articles are about business, entertainment, politics, sport and technology.<br />
 https://www.kaggle.com/pariza/bbc-news-summary
