@@ -12,13 +12,14 @@ Java files and required external jar files are added to "src" folder. Database t
 
 ## Dataset
 During the experiments a dataset that contains news articles of BBC and their pair summaries are used to make a comparison with the generated summaries. The
-context of the selected articles are about business, entertainment, politics, sport and technology.
+context of the selected articles are about business, entertainment, politics, sport and technology.<br />
 https://www.kaggle.com/pariza/bbc-news-summary
 
 ## Running The Tests:
 The interface of the project provides loading selected texts and reference summaries.The generated summaries and their evaluation results are presented as output of the project. Also, the texts, their reference summaries and generated summaries are included in "experiment" folder. <br />
 
 Evaluation of the results are provided using ROUGE metrics and ROUGE 2.0 toolkit, which is a Java package for evaluation of the task, is externally adapted to the project.
+<br />
 http://rxnlp.com/rouge-2-0-usage-documentation/#.XvdylCgzY2x
 
 ## Contribution:
